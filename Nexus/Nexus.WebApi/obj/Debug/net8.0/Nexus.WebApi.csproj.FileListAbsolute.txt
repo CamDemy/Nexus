@@ -140,3 +140,6 @@
 /Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Nexus.Infrastructure.dll
 /Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Nexus.Infrastructure.pdb
 /Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Nexus.Domain.pdb
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/AutoMapper.dll
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Nexus.Application.dll
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Nexus.Application.pdb
