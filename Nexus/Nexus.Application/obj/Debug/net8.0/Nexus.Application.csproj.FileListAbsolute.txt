@@ -1,0 +1,15 @@
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/bin/Debug/net8.0/Nexus.Application.deps.json
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/bin/Debug/net8.0/Nexus.Application.runtimeconfig.json
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/bin/Debug/net8.0/Nexus.Application.dll
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/bin/Debug/net8.0/Nexus.Application.pdb
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.csproj.AssemblyReference.cache
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.AssemblyInfoInputs.cache
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.AssemblyInfo.cs
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.csproj.CoreCompileInputs.cache
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.sourcelink.json
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.dll
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/refint/Nexus.Application.dll
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.pdb
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/Nexus.Application.genruntimeconfig.cache
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.Application/obj/Debug/net8.0/ref/Nexus.Application.dll
