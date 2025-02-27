@@ -143,3 +143,5 @@
 /Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/AutoMapper.dll
 /Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Nexus.Application.dll
 /Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Nexus.Application.pdb
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApi/bin/Debug/net8.0/Microsoft.Bcl.Memory.dll

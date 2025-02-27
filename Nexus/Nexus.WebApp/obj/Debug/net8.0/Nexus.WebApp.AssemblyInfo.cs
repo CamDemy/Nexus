@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nexus.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497f9f59b4cb55d201b895b671a67159238d7e21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b86803e3045f2d0c8adff33b647a4e8da2620d4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nexus.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nexus.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
