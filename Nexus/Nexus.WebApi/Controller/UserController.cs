@@ -1,4 +1,5 @@
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Nexus.Application.Dtos;
 using Nexus.Application.Services.Interfaces;
@@ -20,6 +21,8 @@ public class UserController : ControllerBase
     }
 
     [HttpGet]
+    //[Authorize]
+    //[Authorize(Roles = "Admin")]
     public async Task<IActionResult> GetAllUsers()
     {
         var users = await _userService.GetAllUsersAsync();
