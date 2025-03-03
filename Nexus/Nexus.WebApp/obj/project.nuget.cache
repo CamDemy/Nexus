@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yJOByZk8GfQ=",
+  "dgSpecHash": "mGNYqu7MD60=",
   "success": true,
   "projectFilePath": "/Users/thuynguyen/Documents/CamDemy/nexus/Nexus/Nexus/Nexus.WebApp/Nexus.WebApp.csproj",
   "expectedPackageFiles": [
+    "/Users/thuynguyen/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/thuynguyen/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/thuynguyen/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
     "/Users/thuynguyen/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
